@@ -16,28 +16,28 @@ const {
 } = require("./controllers/post.controllers");
 
 //홈 조회
-router.get("/post", getHome);
+router.get("/posts", getHome);
 
 //스토어 조회
-router.get("/post/store", artStore);
+router.get("/stores", artStore);
 
 //상세페이지 조회
-router.get("/post/:postId", artDetail);
+router.get("/posts/:postid", artDetail);
 
 //작품 등록
-router.post("/post", middleware, upload.array("image", 10), artPost);
+router.post("/posts", middleware, upload.array("image", 10), artPost);
 
 //작품 판매글 수정
-router.patch("/post/:postId", middleware, upload.array("image", 10), artUpdate);
+router.patch("/posts/:postid", middleware, upload.array("image", 10), artUpdate);
 
 //작품 판매 완료
-router.patch("/done/:postId", middleware, done);
+router.patch("/sale/:postid", middleware, done);
 
 //작품 판매글 삭제
-router.delete("/post/:postId", middleware, artdelete);
+router.delete("/posts/:postid", middleware, artdelete);
 
 //작품 찜하기
-router.post("/markup/:postId", middleware, markupCnt);
+router.post("/markup/:postid", middleware, markupCnt);
 
 //찜한 목록 불러오기
 router.get("/markup", middleware, markupList);
