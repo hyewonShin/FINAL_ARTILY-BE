@@ -24,6 +24,14 @@
 <br>
 
 <a><img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fee258bad-21d3-49c2-88a0-4274869496e7%2F%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2022-06-02_203208.png?table=block&id=ad7871b7-56dd-4406-a6f3-0bf43ef7a881&spaceId=5b5162e1-fb28-420c-acae-78efb764f3c3&width=2000&userId=2c64a51b-82d3-485a-b59b-5b8cef0ad4a9&cache=v2"><a/>
+	
+
+<br>
+
+## 🪧 ERD
+<br>
+
+<a><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ef0d1930-28d1-4160-9c0d-331aa1372aa4/ERD_%282%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220610%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220610T120458Z&X-Amz-Expires=86400&X-Amz-Signature=3d796411b53ea7588d3a891689e8e5cf355366e393f77ac141d76a0d4828fcd6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ERD%2520%282%29.png%22&x-id=GetObject"><a/>
 
 <br>
 
